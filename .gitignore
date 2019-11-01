@@ -1,0 +1,4 @@
+# add files or fileformats you don't want to track
+*.DS_Store
+*.ipynb
+*.ipynb_checkpoints
